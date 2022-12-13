@@ -21,7 +21,8 @@ Websites used for inspiration and code
 
 - [Tailwind CSS ](https://tailwindcss.com/)
 - [Tailwind UI ](https://tailwindui.com/)
-- [Tailwind Components ](https://tailwindcomponents.com/)
 - [Codepen ](https://codepen.io/)
+- [Tailwind Components ](https://tailwindcomponents.com/)
+
 
 

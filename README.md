@@ -4,6 +4,8 @@ Everything has to work (Contact form and social links and etc)
 Use xampp for contact form and additional data etc
 
 Deadline is 23.12.2022
+<br>
+Things that must be included
 
 - Contact form 
 - Top bar, footer

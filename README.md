@@ -1,6 +1,4 @@
 # Portfolio
-Portfolio for myself
-
 Everything has to work (Contact form and social links and shit)
 Use xampp for contact form and additional data shit 
 

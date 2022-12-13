@@ -12,4 +12,5 @@ Deadline is 23.12.2022
 - Qualifications
 - Socials 
 
-[Tailwind ](https://tailwindcss.com/)
+[Tailwind CSS ](https://tailwindcss.com/)
+[Tailwind UI ](https://tailwindui.com/)

@@ -5,7 +5,6 @@ Use xampp for contact form and additional data etc
 
 Deadline is 23.12.2022
 <br>
-<br>
 Things that must be included
 
 - Contact form 

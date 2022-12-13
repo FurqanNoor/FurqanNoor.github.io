@@ -17,5 +17,5 @@ Websites used for inspiration and code
 <br>
 
 
--[Tailwind CSS ](https://tailwindcss.com/)
--[Tailwind UI ](https://tailwindui.com/)
+- [Tailwind CSS ](https://tailwindcss.com/)
+- [Tailwind UI ](https://tailwindui.com/)

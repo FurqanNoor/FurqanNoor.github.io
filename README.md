@@ -1,5 +1,5 @@
 # Portfolio
-Everything has to work (Contact form and social links and etc)
+Everything component has to work (Contact form and social links and etc)
 <br>
 Use xampp for contact form and additional data etc
 

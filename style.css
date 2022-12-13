@@ -1,0 +1,119 @@
+html, body{
+    margin: 0%;
+    height: 100%;
+    background-color:#1a1818 ;
+    color: #ece7e1;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.twitter{
+    margin-top: 110%;
+    transform: rotate(-90deg);
+    letter-spacing: 2px;
+}
+
+.twitter :hover{
+    text-decoration: 1px line-through;
+}
+
+.linkedin{
+    margin-top: 100%;
+    transform: rotate(-90deg);
+    letter-spacing: 2px;
+}
+
+.linkedin :hover{
+    text-decoration: 1px line-through;
+}
+
+
+a{
+    color: #ece7e1;
+    text-decoration: none;
+}
+
+.line{
+    margin-top: 100%;
+    height: 440px;
+    margin-left: 50%;
+    width: 5px;
+    border-left: 1px solid #ece7e1;
+}
+
+.copywright{
+    margin-top: 80%;
+    transform: rotate(-90deg);
+}
+
+.navbar{
+    font-size: 18px;
+    position: fixed;
+    height: 95%;
+    width: 5%;
+    
+}
+
+.name{
+    font-weight: 100;
+    font-size: 40px;
+    float: right;
+    top: 600px;
+    position: fixed;
+    margin-left: 8%;
+    width: 20%;
+    letter-spacing: 2px;
+    position: fixed;
+}
+
+.text{
+    float: right;
+    top: 650px;
+    position: fixed;
+    margin-left: 8%;
+    width: 20%;
+    position: fixed;
+}
+
+.nav{
+    font-size: 230px;
+    position: fixed;
+    top: 130px;
+    margin-left: 35%;
+    float: right;
+}
+
+.work{
+    transition-duration: 2s ease-in-out;
+}
+.work :hover{
+    transform: translate(-10px, 0);
+    font-style: italic;
+    transition-duration: 2s ease-in-out;
+}
+.work :hover ::after{
+    transition-duration: 2s ease-in-out;
+}
+
+.about{
+    transition-duration: 2s ease-in-out;
+}
+.about :hover{
+    transform: translate(-10px, 0);
+    font-style: italic;
+    transition-duration: 2s ease-in-out;
+}
+.about :hover ::after{
+    transition-duration: 2s ease-in-out;
+}
+
+.contact{
+    transition-duration: 2s ease-in-out;
+}
+.contact :hover{
+    transform: translate(-10px, 0);
+    font-style: italic;
+    transition-duration: 2s ease-in-out;
+}
+.contact :hover ::after{
+    transition-duration: 2s ease-in-out;
+}

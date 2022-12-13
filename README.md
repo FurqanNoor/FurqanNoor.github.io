@@ -14,9 +14,8 @@ Deadline is 23.12.2022
 
 <br>
 Websites used for inspiration and code 
-
-
 <br>
+
 - [Tailwind CSS ](https://tailwindcss.com/)
 - [Tailwind UI ](https://tailwindui.com/)
 - [Tailwind Components ](https://tailwindcomponents.com/)

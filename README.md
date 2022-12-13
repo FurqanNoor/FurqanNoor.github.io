@@ -1,6 +1,6 @@
 # Portfolio
-Everything has to work (Contact form and social links and shit)
-Use xampp for contact form and additional data shit 
+Everything has to work (Contact form and social links and etc)
+Use xampp for contact form and additional data etc
 
 Deadline is 23.12.2022
 
